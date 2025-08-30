@@ -1,4 +1,4 @@
-package tehtavat.web;
+package com.example.tehtavat.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -20,3 +20,4 @@ public class HelloController {
         return "hello";
     }
 } 
+
